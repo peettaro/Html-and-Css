@@ -1,0 +1,22 @@
+p, .nav {
+  font-family: geneva;
+  font-size: 18px;
+}
+
+p, .nav, h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-family: brush script mt;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.nav a {
+  padding: 10px;
+}
