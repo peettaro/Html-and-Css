@@ -18,5 +18,18 @@ h2 {
 }
 
 .nav a {
-  padding: 10px;
+  padding: 6px;
+  border: 2px solid teal;
+  border-radius: 5px;
+  color: white;
+  background: teal;
+}
+
+.nav a:hover {
+  color: teal;
+  background: white;
+}
+
+.nav {
+  padding-top: 30px;
 }
